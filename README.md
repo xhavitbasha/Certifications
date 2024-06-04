@@ -2,7 +2,7 @@
 
 
 
-<h3>Cyber Training: </h3>
+<h3>CyberSecurity Training: </h3>
 <img src="https://i.imgur.com/Aj7rl1O.png"  height="50%" width="50%" /> 
 
 
