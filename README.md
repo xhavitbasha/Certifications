@@ -3,7 +3,7 @@
 
 
 <h3>Cyber Training: </h3>
-<img src="https://imgur.com/a/qtxPY3U"  height="50%" width="50%" /> 
+<img src="https://imgur.com/a/asdfasf-qtxPY3U"  height="50%" width="50%" /> 
 
 
 <h3>TryHackMe Certifications: </h3>
