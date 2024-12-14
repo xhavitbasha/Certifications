@@ -16,5 +16,7 @@
 <img src="https://i.imgur.com/KvcxYVM.png"  height="50%" width="50%" />
 
 <h3>Cisco Certification: </h3>
-<p> Coming soon...</p> 
+<img src="https://i.imgur.com/puDBrVo.png!"  height="50%" width="50%" />
+
+
 <br />
